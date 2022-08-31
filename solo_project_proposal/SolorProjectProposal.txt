@@ -1,0 +1,10 @@
+OPDF - One Piece Devil Fruit
+
+The Ultimate one Piece Devil Fruit api
+
+anyone can add to this api since theres so many devil fruits in the show that have and have not been mentioned.
+
+The dashboard will show all of the devil fruits. 
+A nice to have would be that users can search for devil fruits by name or by the type of devil fruit they are looking for.
+
+When users sign up (Optional) they will havbe the option to favorite their favorite devil fruits for easy access
