@@ -1,15 +1,15 @@
-OPDF - One Piece Devil Fruit
+Name: Amir Cornelius
+ Project Title: OPDF - One Piece Devil Fruit
+ Project Stack: MERN
+ GitHub Repo Link: https://github.com/A-Corn/OPDF
 
-Stack - MERN
+ Project Description: The ultimate One Piece Devil Fruit API. Anyone can add to this api since theres so many devil fruits in the show that have and have not been mentioned.
+ 
+New Programming Concept(s) I'm Planning to Learn: TailwindCSS
+
+Week 1 Features (to show at Review during Week 2): The dashboard will show all of the devil fruits.
+
+Week 2 Features (to show at the first office hour/lecture of Week 3): users can search for devil fruits by name or by the type of devil fruit they are looking for. 
 
 
-Features:
-
-	The Ultimate one Piece Devil Fruit api
-
-	anyone can add to this api since theres so many devil fruits in the show that have and have not been mentioned.
-
-	The dashboard will show all of the devil fruits. 
-	A nice to have would be that users can search for devil fruits by name or by the type of devil fruit they are looking for.
-
-	When users sign up (Optional) they will havbe the option to favorite their favorite devil fruits for easy access
+Product Backlog (If I have more time after completing my MVP, I'll start to work on...): When users sign up they will havbe the option to favorite their favorite devil fruits for easy access
