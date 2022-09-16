@@ -1,0 +1,10 @@
+Name: Amir Cornelius
+ Project Title: Bounty Board
+ Project Stack: MERN
+ GitHub Repo Link: https://github.com/A-Corn/Bounty-Board
+ Project Description: An all in one online job tracker database.
+ 
+ Features: All data tracked and unique to a specific user.
+	   Easily update the status of you spplication.
+	   Find the recruiters you connected with about the role to follow up.
+	   See all information about the role at a glance. 
